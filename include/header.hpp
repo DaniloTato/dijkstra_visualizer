@@ -5,7 +5,6 @@
 #include <vector>
 #include <array>
 #include <SFML/Graphics.hpp>
-#include <SFML/Audio.hpp>
 #include <queue>
 #include <limits>
 #include <sstream>
